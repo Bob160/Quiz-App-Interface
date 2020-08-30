@@ -1,0 +1,88 @@
+body {
+  background-color: gainsboro;
+}
+.topmost {
+  background-color: #6610f2;
+}
+h3 {
+  color: #ffffff;
+}
+.score {
+  font-weight: bold;
+  margin-left: 1rem;
+}
+
+.first .under {
+  max-width: 800%;
+}
+
+.first {
+  background-color: #ffffff;
+}
+
+.inside {
+  /* border: 5px solid #6610f2; */
+  background-color: #ffffff !important;
+}
+
+.question-num {
+  background-color: #6610f2;
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 0.5rem;
+}
+
+.question-num:hover {
+  background-color: #6610f2;
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 0.5rem;
+}
+
+.quest {
+  /* background-color: red; */
+  margin-top: 2%;
+  margin-left: 1%;
+  padding-right: 5%;
+  font-size: 12pt;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.question-opt {
+  font-size: 12pt;
+}
+
+.butop {
+  border-radius: 100%;
+  font-weight: bold;
+  background-color: #6610f2;
+  color: #ffffff;
+  margin-left: 1rem;
+}
+
+.butop:hover {
+  border-radius: 100%;
+  font-weight: bold;
+  background-color: #6610f2;
+  color: #ffffff;
+}
+span {
+  font-size: 12pt;
+  font-weight: bold;
+  padding-left: 7pt;
+  padding-top: 5pt;
+}
+
+.last {
+  background-color: #ffffff;
+}
+
+.page {
+  display: block;
+  margin: 0 auto;
+}
